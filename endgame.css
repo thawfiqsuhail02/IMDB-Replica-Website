@@ -1,0 +1,127 @@
+body{
+	background-image: url('than.jfif');
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	background-size: 100%100%;
+	
+}
+
+#top{
+	margin-top: -10px;
+	margin-left: -10px;
+	background-color:black;
+	width: 5000px;
+	height:80px;
+}
+
+#logo{
+	height: 45px;
+	width: 70px;
+	border-radius: 5px 5px 5px 5px;
+	margin-left: 50px;
+	
+}
+
+#Men{
+	font-color:white;
+	margin: 0 20px 0 20px;
+
+}
+
+#mean{
+	height:35px;
+	width:50px;
+	font-weight:bold;
+	margin-top: -40px;
+}
+
+#searching{
+	margin-left: 0;
+	height:35px;
+	width:700px; 
+}
+
+.topright{
+	diplay:inline-block;
+	font-family:Arial;
+	font-weight:bold;
+	color:white;
+}
+
+div{
+	display:inline-block;
+}
+.se
+{
+	margin-top: 10px;
+
+}
+
+.mi
+{
+	margin-top: -60px;
+}
+.searchic
+{	
+	padding-right: 8px; 
+	width: 32px;
+	height: 28px;
+}
+.bu
+{
+	margin-top: 5px;
+	width: 40px;
+	height: 35px;
+}
+
+#white{
+	background: #fcfcfc;
+	margin-top: 50px;
+	margin-left: 35px;
+	width:80%;
+}
+
+#bord{
+	margin:10px 10px 10px 10px;
+	border: 1px solid rgba(194, 182, 182,0.5);
+	padding:15px 15px 15px 15px;
+	width:70%;
+}
+
+#endgame{
+	width:100%;
+	margin-top: 50px;
+}
+
+.eg{
+	width: 180px;
+	height: 250px;
+	padding-left: 10px;
+}
+.egrr{
+	width: 150px;
+	height: 150px;
+	padding-left: 10px;
+	float: right;
+}
+
+#e{
+	width: 10px;
+	height: 10px;
+	display: inline;
+	padding-left: 350px;
+}
+
+#egr{
+	display:inline;
+	text-align: top;
+}
+
+#ak{
+	padding-left: 100px;
+}
+
+#tr1{
+	padding-top: 20px;
+	padding-left: 10px;
+}

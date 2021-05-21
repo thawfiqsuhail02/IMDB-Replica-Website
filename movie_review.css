@@ -1,0 +1,210 @@
+body{
+	background-image: url('spider man.jpg');
+	background-repeat:no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+}
+
+#top{
+	margin-top: -10px;
+	margin-left: -10px;
+	background-color:black;
+	
+	width: 5000px;
+	height:80px;
+}
+
+#logo{
+	height: 45px;
+	width: 70px;
+	border-radius: 5px 5px 5px 5px;
+	margin-left: 50px;
+	
+}
+
+#Men{
+	font-color:white;
+	margin: 0 20px 0 20px;
+
+}
+
+#mean{
+	height:35px;
+	width:50px;
+	font-weight:bold;
+	margin-top: -40px;
+}
+
+#searching{
+	margin-left: 0;
+	height:35px;
+	width:700px; 
+}
+
+.topright{
+	diplay:inline-block;
+	font-family:Arial;
+	font-weight:bold;
+	color:white;
+}
+
+div{
+	display:inline-block;
+}
+.se
+{
+	margin-top: 10px;
+
+}
+
+.mi
+{
+	margin-top: -60px;
+}
+.searchic
+{	
+	padding-right: 8px; 
+	width: 32px;
+	height: 28px;
+}
+.bu
+{
+	margin-top: 5px;
+	width: 40px;
+	height: 35px;
+}
+
+#white{
+	background: #fcfcfc;
+	margin-top: 50px;
+	margin-left: 35px;
+	width:80%;
+}
+
+#bord{
+	margin:10px 10px 10px 10px;
+	border: 1px solid rgba(194, 182, 182,0.5);
+	padding:15px 15px 15px 15px;
+	width:70%;
+}
+
+#mainy{
+	line-height:-20px;
+	font-color:rgba(194, 182, 182,0.1);
+}
+#no{
+	font-style: normal;
+}
+
+#refine{
+	background:#f5f0f7;
+	width: 700px;
+}
+
+#re{
+	padding:3px;
+	text-align: center;
+}
+
+#reff{
+	color: rgba(214, 208, 217,0.9);
+	height: 20px;
+	display: inline;
+}
+
+#title{
+	width:700px;
+	font-family: arial;
+	font-weight: bold;
+	border: 0.1px solid rgba(194, 182, 182,0.5);
+	padding-left: 10px;
+	height: 40px;
+	margin-top: 7px;
+}
+
+#view{
+	text-align: right;
+	padding-left: 350px;
+	font-weight:normal; 
+}
+
+#sorto{
+	text-align: right;
+	padding-left: 350px;
+}
+
+#arrow{
+	padding-top: 10px;
+	height:20px;
+	width: 20px;
+}
+
+#c{
+
+	padding-top: 10px;
+	height:18px;
+	width: 20px;
+}
+
+#b{
+	padding-left: 25px;
+}
+
+#endgame{
+	background:#ede4ed;
+	width:100%;
+	margin-top: 50px;
+}
+
+.eg{
+	width: 180px;
+	height: 250px;
+	padding-left: 10px;
+}
+
+#egr{
+	display:inline;
+	text-align: top;
+}
+
+#cm{
+	width:100%;
+	margin-top: 40px;
+}
+
+#s{
+	background:#ede4ed;
+	width:100%;
+	margin-top: 40px;
+}
+
+#ts{
+	width:100%;
+	margin-top: 40px;
+}
+
+#g{
+	background:#ede4ed;
+	width:100%;
+	margin-top: 40px;
+}
+
+#ak{
+	padding-left: 100px;
+}
+
+#bk{
+	padding-left: 125px;
+}
+
+#ck{
+	padding-left: 162px;
+}
+
+#dk{
+	padding-left: 150px;
+}
+
+#ek{
+	padding-left: 40px;
+}
